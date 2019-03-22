@@ -9,3 +9,7 @@
 ```bash
 python3 slots.py
 ```
+
+```bash
+python3 time.py
+```
